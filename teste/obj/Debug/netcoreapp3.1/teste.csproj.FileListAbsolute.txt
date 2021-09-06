@@ -1,0 +1,14 @@
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\bin\Debug\netcoreapp3.1\teste.exe
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\bin\Debug\netcoreapp3.1\teste.deps.json
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.json
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\bin\Debug\netcoreapp3.1\teste.runtimeconfig.dev.json
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\bin\Debug\netcoreapp3.1\teste.dll
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\bin\Debug\netcoreapp3.1\teste.pdb
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\obj\Debug\netcoreapp3.1\teste.csproj.AssemblyReference.cache
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\obj\Debug\netcoreapp3.1\teste.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfoInputs.cache
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\obj\Debug\netcoreapp3.1\teste.AssemblyInfo.cs
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\obj\Debug\netcoreapp3.1\teste.csproj.CoreCompileInputs.cache
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\obj\Debug\netcoreapp3.1\teste.dll
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\obj\Debug\netcoreapp3.1\teste.pdb
+F:\Cursos\Udemy\C#\Exercicios\Secao_8_Git_e_Github\modelo\teste\teste\obj\Debug\netcoreapp3.1\teste.genruntimeconfig.cache
